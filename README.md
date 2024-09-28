@@ -12,7 +12,7 @@
 
 <div style="display: flex; flex-direction: column; align-items: center;">
     <div style="display: flex; justify-content: center; width: 100%;">
-        <div style="margin: 20px; text-align: center; width: 400px;">
+        <div style="margin: 20px; text-align: center; width: 200px;">
             <h3>Programming Languages</h3>
             <p>
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/>
@@ -23,7 +23,7 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" title="PHP"/>
             </p>
         </div>
-        <div style="margin: 20px; text-align: center; width: 400px;">
+        <div style="margin: 20px; text-align: center; width: 200px;">
             <h3>Frameworks and Libraries</h3>
             <p>
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40" title=".NET"/>
@@ -34,21 +34,21 @@
         </div>
     </div>
     <div style="display: flex; justify-content: center; width: 100%;">
-        <div style="margin: 20px; text-align: center; width: 400px;">
+        <div style="margin: 20px; text-align: center; width: 200px;">
             <h3>Web Development</h3>
             <p>
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" title="HTML"/>
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" title="CSS"/>
             </p>
         </div>
-        <div style="margin: 20px; text-align: center; width: 400px;">
+        <div style="margin: 20px; text-align: center; width: 200px;">
             <h3>Databases</h3>
             <p>
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL/PLSQL" width="40" height="40" title="SQL/PLSQL"/>
             </p>
         </div>
     </div>
-    <div style="margin: 20px; text-align: center; width: 400px;">
+    <div style="margin: 20px; text-align: center; width: 200px;">
         <h3>Tools</h3>
         <p>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40" title="Photoshop"/>
